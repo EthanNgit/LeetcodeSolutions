@@ -6,3 +6,5 @@ Two sum is a pretty good mapping problem
 *  Else we can just add it to the map and move on
 
 *  This works because there is a garunteed solution, and that means even if we dont find the value in the first run, by the end it will be garunteed to be found
+
+![TwoSum_Run](https://github.com/EthanNgit/leetcodeSolutions/assets/105979510/b93ba454-034d-46cf-80ed-ddb5209fac35)
