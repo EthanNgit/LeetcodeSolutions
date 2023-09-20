@@ -5,4 +5,4 @@ Binary search
 * Otherwise you can check if the left side is less than the target, which means target is further down the list
 * and the middle is not target, you can simple search the other zone (the right side) only skipping multiple potential searches
 * ![BinarySearch_RUN](https://github.com/EthanNgit/leetcodeSolutions/assets/105979510/7fc658bf-f1b7-4036-aabc-715bba7fa817)
-* a
+
