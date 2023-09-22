@@ -1,6 +1,6 @@
 Arrays & Hashing
 
-This is quite possible the most (if not one of the most) integral parts of learning dsa, and efficient programming
+This is quite possible the most (if not one of the most) integral parts of learning dsa and efficient programming
 
 Learning to articulate arrays can be important if you know you have a very specific sort of data to store together, as most languages arrays are not dynamic, you have to allocate it before.
 Given that an array has the space for something inserting an element into an array is always O(1) time as it does not need to do anything special.
